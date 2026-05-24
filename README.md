@@ -13,5 +13,8 @@
 - Piece : 기물 추상 클래스
   - King, Queen, Rook, Bishop, Knight, Pawn
 
-## 빌드 방법
-Qt Creator에서 CMakeLists.txt 열고 빌드
+## 수정사항
+첫 개발 시작 커밋
+1. 초기 화면(start page) 구현
+2. 기본 클래스 구성 완료
+3. 메인 플레이화면 초기 세팅 구현
